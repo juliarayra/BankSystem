@@ -14,10 +14,10 @@ Em desenvolvimento, mas entidades modeladas e camada de persistência em andamen
 
 O projeto segue o padrão de arquitetura em camadas:
 
-* Controller → responsável pelos endpoints da API
-* Service → regras de negócio
-* Repository → acesso aos dados
-* Model → entidades do sistema
+* Controller - responsável pelos endpoints da API
+* Service - regras de negócio
+* Repository - acesso aos dados
+* Model - entidades do sistema
 
 Separação pensada para manter o código organizado, escalável e de fácil manutenção
 
