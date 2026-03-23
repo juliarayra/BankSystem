@@ -6,7 +6,7 @@ Sistema bancário em desenvolvimento com foco em simular operações reais de co
 
 ## Status
 
-Em desenvolvimento — entidades modeladas e camada de persistência em andamento
+Em desenvolvimento, mas entidades modeladas e camada de persistência em andamento
 
 ---
 
